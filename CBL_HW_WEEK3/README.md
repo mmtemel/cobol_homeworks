@@ -1,2 +1,3 @@
-# cobol_homeworks
-Akbank Cobol Bootcamp Homeworks
+# AKBANK COBOL BOOTCAMP HOMEWORK WEEK 3
+
+# COBHW03
