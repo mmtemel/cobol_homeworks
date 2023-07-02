@@ -1,2 +1,1 @@
-# cobol_homeworks
-Akbank Cobol Bootcamp Homeworks
+# Akbank Cobol Bootcamp Homeworks
